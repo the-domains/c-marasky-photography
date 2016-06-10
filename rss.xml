@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[C. Marasky Photography]]></title>
         <description><![CDATA[C. Marasky Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/c-marasky-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 03:29:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 10 Jun 2016 03:34:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/c-marasky-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ac6ec56-e117-438a-bab0-8d6a431ce9fb.jpg">]]></description>
+            <link>https://thegrid.ai/c-marasky-photography/ea30a293-79d9-49a0-a7e0-cd5b94c7a4d4/index.html</link>
+            <guid isPermaLink="false">ea30a293-79d9-49a0-a7e0-cd5b94c7a4d4</guid>
+            <pubDate>Fri, 10 Jun 2016 03:34:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f52de8b1-0e5f-4806-9212-26a0e0ed1f8b.jpg">]]></description>
-            <link>undefineddc723321-dc03-4979-b426-b3e7c9b96901/index.html</link>
+            <link>https://thegrid.ai/c-marasky-photography/dc723321-dc03-4979-b426-b3e7c9b96901/index.html</link>
             <guid isPermaLink="false">dc723321-dc03-4979-b426-b3e7c9b96901</guid>
             <pubDate>Fri, 10 Jun 2016 03:29:43 GMT</pubDate>
         </item>
